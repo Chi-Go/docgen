@@ -8,11 +8,11 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/go-chi/chi/v5"
-	"github.com/go-chi/chi/v5/middleware"
-	"github.com/go-chi/docgen"
-	"github.com/go-chi/docgen/raml"
-	"github.com/go-chi/render"
+	"github.com/Chi-Go/chi"
+	"github.com/Chi-Go/chi/middleware"
+	"github.com/Chi-Go/docgen"
+	"github.com/Chi-Go/docgen/raml"
+	"github.com/Chi-Go/render"
 	yaml "gopkg.in/yaml.v2"
 )
 

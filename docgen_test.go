@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/go-chi/chi/v5"
-	"github.com/go-chi/docgen"
+	"github.com/Chi-Go/chi"
+	"github.com/Chi-Go/docgen"
 )
 
 // RequestID comment goes here.

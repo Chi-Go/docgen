@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/go-chi/chi/v5"
+	"github.com/Chi-Go/chi"
 )
 
 type Doc struct {
